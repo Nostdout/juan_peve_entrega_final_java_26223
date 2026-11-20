@@ -111,6 +111,10 @@ El proyecto se ejecuta desde Visual Studio Code:
 2. Presionar en Run
 3. Abrir el navegador en http://localhost:8080
 
+## Video demo
+
+https://youtu.be/a_R1OsiP5Eo
+
 ## 👨‍💻 Autor
 
 Proyecto desarrollado por Juan para la entrega final de Back-End / Java.
